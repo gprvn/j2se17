@@ -1,8 +1,7 @@
-package io.gprvn.java_streams;
+package main.java.io;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class StreamExample02 {
     public static void main(String[] args) {

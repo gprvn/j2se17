@@ -1,4 +1,4 @@
-package io.gprvn.java_streams;
+package main.java.io;
 
 import java.util.ArrayList;
 import java.util.List;
