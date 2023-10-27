@@ -17,6 +17,4 @@ public class E {
    ->   A statment is an instruction, and an import statement tell Java which package to look in for classes.
     ->  Since we didn't tell java where to look for Random class, it has no clue.
     ->  Trying this again with the import allows the code to compile.
-  
-  
  */
