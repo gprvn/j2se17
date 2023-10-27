@@ -11,3 +11,9 @@ public class G{
 
 	}
 }
+
+/**
+ * javac -d classes pack01/F.java pack02/G.java
+ * 
+ * java -cp classes chap01.pack02.G
+ */
