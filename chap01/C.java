@@ -16,7 +16,7 @@ public class C {
     ->  To compile java code with the javac command, the file must have extension .java.
     ->  The name of the file must match name of the public class
     ->  The result is the file of bytecode with the same name but with .class filename extension.
-    -> Bytecode consists of instructions that the JVM knows how to execute.
+    ->  Bytecode consists of instructions that the JVM knows how to execute.
 
     **** Main Method diagnosis ****
     public static void main(String[] args)
